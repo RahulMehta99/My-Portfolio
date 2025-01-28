@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and professional journey in a visually appealing and interactive way.
 
 ## 🖥️ Live Demo
-[Click here to view the live portfolio]:-(https://rahul-mehta-portfolio.vercel.app/)
+[Click here to view the live portfolio](https://rahul-mehta-portfolio.vercel.app/)
 
 ## 📂 Project Structure
 - **Home Page**: A summary of my professional highlights and skills.
